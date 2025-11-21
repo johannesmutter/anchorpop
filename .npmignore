@@ -1,0 +1,6 @@
+# .npmignore
+*
+!dist
+!README.md
+!LICENSE
+!package.json
