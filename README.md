@@ -16,9 +16,10 @@ AnchorPop is a lightweight library that brings the power of native CSS Anchor Po
 
 ## Browser Support
 
-This library requires browser support for CSS Anchor Positioning. Currently supported in:
+This library requires browser support for CSS Anchor Positioning. Which is Baseline 2026 as of January 2026. Yay!
 - Chrome/Edge (Arrows require 143+)
 - Safari (Arrows not yet supported due to lack of feature support for anchored container queries)
+- Firefox (147+)
 
 ## Installation
 
